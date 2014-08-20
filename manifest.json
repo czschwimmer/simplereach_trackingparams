@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Adding Tracking Parameters",
+  "description": "Add SimpleReach tracking parameters to a URL.",
+  "version": "1.0",
+
+  "permissions": [
+    "tabs"
+  ],
+  
+  "browser_action": {
+    "default_icon": "face.png",
+    "default_popup": "popup.html"
+  }
+}
